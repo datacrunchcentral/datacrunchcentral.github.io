@@ -10,8 +10,8 @@ toc_icon: "bookmark"
 *Updated: 08/12/2020*
 
 ## 📧 Contact
-- Email: [tranduckhanh96@gmail.com]()
-- LinkedIn: [linkedin.com/in/chriskhanhtran/](https://www.linkedin.com/in/chriskhanhtran/)
+- Email: [asifmd8309]()
+- LinkedIn: [linkedin.com/in/mohdasif81/](https://www.linkedin.com/in/mohdasif81/)
 
 ## 💼 Experience
 ### Etsy, Inc.
@@ -72,7 +72,7 @@ Provided technical supports to Fortune 500 clients utilizing Tax Series – TTI�
 
 In three-month research and two-day hackathon, led a team of four students to discover insights from NYC and Boston government data sets and won runner-up prize for best research poster out of 18 participating colleges.
 
-*Read more: [News](https://news.niagara.edu/news/show/niagara-university-team-competes-at-data-analytics-competition-in-nyc), [Research Poster](https://chriskhanhtran.github.io/minimal-portfolio/pdf/bac2018.pdf)*
+*Read more: [News](https://news.niagara.edu/news/show/niagara-university-team-competes-at-data-analytics-competition-in-nyc), [Research Poster](https://datacrunchcentral.github.io/minimal-portfolio/pdf/bac2018.pdf)*
 
 - Cleaned up (missing data, outlier detection, duplications) and integrated (merge, join, subset) large data sets (6 million records) of governmental spending, contracts and KPI metrics.
 - Utilized Python and Tableau to perform exploratory data analysis and visualization on payroll distribution and minority-owned businesses’ participation in government contracts.
@@ -93,7 +93,7 @@ In three-month research and two-day hackathon, led a team of four students to di
 - Coursework: Business Analytics, Linear Models, Management Information Systems, Econometrics
 
 ## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://chriskhanhtran.github.io/posts/) and [portfolio](https://chriskhanhtran.github.io/portfolio/) for more details.
+I frequently publish articles to discuss recent research in Natural Language Processing and open-source projects applying state-of-the-art AI technologies. Please visit my [blog](https://datacrunchcentral.github.io/posts/) and [portfolio](https://datacrunchcentral.github.io/portfolio/) for more details.
 
 ## 🤖 Skills
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
