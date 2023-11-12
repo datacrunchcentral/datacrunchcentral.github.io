@@ -10,7 +10,7 @@ toc_icon: "bookmark"
 *Updated: 08/12/2020*
 
 ## 📧 Contact
-- Email: [asifmd8309]()
+- Email: [asifmd8309@gmail.com]()
 - LinkedIn: [linkedin.com/in/mohdasif81/](https://www.linkedin.com/in/mohdasif81/)
 
 ## 💼 Experience
