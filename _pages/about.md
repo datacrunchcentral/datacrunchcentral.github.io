@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/about-header-1566x300.jpg 
+  image: /assets/images/milkyway-1280x856.jpg
 ---
 
 <img src="https://datacrunchcentral.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
