@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chris Tran" # "Site Title"
+title                    : "Mohammed Asif" # "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Chris Tran"
-description              : "Chris Tran's Portfolio"
+name                     : "Mohammed Asif"
+description              : "Mohammed Asif's Portfolio"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"    # should leave empty
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,9 +107,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chris Tran"
+  name             : "Mohammed Asif"
   avatar           : "/assets/images/profile-photo.png"
-  bio              : "<i>A learner,<br>a runner,<br> a stargazer.</i>"
+  bio              : "<i>A achiever,<br>a Data Enthusiast.</i>"
   location         :
   email            : 
   links:
@@ -118,16 +118,16 @@ author:
       url: mailto:tranduckhanh96@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/chriskhanhtran"
+      url: "https://github.com/datacrunchcentral"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/chriskhanhtran/"
+      url: "https://www.linkedin.com/in/mohdasif81"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
+      url: "https://twitter.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg
+      url: https://www.youtube.com/channel/datacrunchcentral
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
     #   # url: "https://your-website.com"
@@ -143,16 +143,16 @@ footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: https://github.com/chriskhanhtran   
+      url: https://github.com/datacrunchcentral   
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://www.linkedin.com/in/chriskhanhtran/
+      url: https://www.linkedin.com/in/mohdasif81/
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/chriskhanhtran"
+      url: "https://twitter.com"
     - label: "YouTube"
       icon: "fab fa-fw fa-youtube"
-      url: https://www.youtube.com/channel/UCo8okHIdSppn_idUVuuebhg      
+      url: https://www.youtube.com/channel/datacrunchcentral      
   #  - label: "Twitter"
   #    icon: "fab fa-fw fa-twitter-square"
   #    # url:
