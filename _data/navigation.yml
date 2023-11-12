@@ -6,9 +6,9 @@ main:
     url: /posts/
   - title: "Resources"
     url: /resources/   
-  - title: "Films"
-    url: /films/
+  # - title: "Films"
+  #   url: /films/
   - title: "CV"
     url: /cv/
-  - title: "About"
-    url: /about/
+  # - title: "About"
+  #   url: /about/
