@@ -19,12 +19,7 @@ header:
 
 ## 1. Introduction
 
-At ICLR 2020, [ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://openreview.net/pdf?id=r1xMH1BtvB), a new method for self-supervised language representation learning, was introduced. ELECTRA is another member of the Transformer pre-training method family, whose previous members such as BERT, GPT-2, RoBERTa have achieved many state-of-the-art results in Natural Language Processing benchmarks.
-
-Different from other masked language modeling methods, ELECTRA is a more sample-efficient pre-training task called replaced token detection. At a small scale, ELECTRA-small can be trained on a single GPU for 4 days to outperform [GPT (Radford et al., 2018)](https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf) (trained using 30x more compute) on the GLUE benchmark. At a large scale, ELECTRA-large outperforms [ALBERT (Lan et al., 2019)]() on GLUE and sets a new state-of-the-art for SQuAD 2.0.
-
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-performance.JPG?raw=true)
-*ELECTRA consistently outperforms masked language model pre-training approaches.*
+Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft Office suite. It's widely used for various tasks such as data entry, analysis, calculation, and visualization. Here's a brief introduction to some of its key features:
 {: .text-center}
 
 ## 2. Method
