@@ -20,19 +20,13 @@ header:
 ## 1. Introduction
 
 Microsoft Excel is a powerful spreadsheet program that is part of the Microsoft Office suite. It's widely used for various tasks such as data entry, analysis, calculation, and visualization. Here's a brief introduction to some of its key features:
-{: .text-center}
+{: .text-left}
 
-## 2. Method
+## 2. Data Entry and Formatting
 
-Masked language modeling pre-training methods such as [BERT (Devlin et al., 2019)](https://arxiv.org/abs/1810.04805) corrupt the input by replacing some tokens (typically 15% of the input) with `[MASK]` and then train a model to re-construct the original tokens.
-
-Instead of masking, ELECTRA corrupts the input by replacing some tokens with samples from the outputs of a smalled masked language model. Then, a discriminative model is trained to predict whether each token was an original or a replacement. After pre-training, the generator is thrown out and the discriminator is fine-tuned on downstream tasks.
-
-![](https://github.com/chriskhanhtran/spanish-bert/blob/master/img/electra-overview.JPG?raw=true)
-*An overview of ELECTRA.*
-{: .text-center}
-
-Although having a generator and a discriminator like GAN, ELECTRA is not adversarial in that the generator producing corrupted tokens is trained with maximum likelihood rather than being trained to fool the discriminator.
+Excel provides a grid of cells for entering data, making it easy to organize information in rows and columns.
+You can format cells to change the appearance of data, apply styles, and use conditional formatting to highlight specific values.
+{: .text-left}
 
 **Why is ELECTRA so efficient?**
 
