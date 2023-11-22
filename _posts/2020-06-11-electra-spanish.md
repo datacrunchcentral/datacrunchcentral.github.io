@@ -1,6 +1,6 @@
 ---
-title: "Pre-train ELECTRA for Spanish from Scratch"
-date: 2020-06-11
+title: "Learn Microsoft Excel"
+# date: 2020-06-11
 categories:
   - posts
 tags:
