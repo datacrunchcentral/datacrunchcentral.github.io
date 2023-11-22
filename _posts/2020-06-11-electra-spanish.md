@@ -12,7 +12,7 @@ toc_label: "Table of Contents"
 toc_icon: "bookmark"
 excerpt: "ELECTRA is another member of the Transformer pre-training method family, whose previous members such as BERT, GPT-2, RoBERTa have achieved many state-of-the-art results in Natural Language Processing benchmarks."
 header:
-  teaser: https://sharpmagazine.com/wp-content/uploads/2016/02/daredevil-elektra-season-2-1600x856.jpg
+  teaser: [https://sharpmagazine.com/wp-content/uploads/2016/02/daredevil-elektra-season-2-1600x856.jpg](https://imgur.com/EJXYF5h)
 ---
 
 [![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1DiOwhRjQbtYRgFWG7e3dybcXJsZcu86l#scrollTo=YIHC6Pg66zHg)
