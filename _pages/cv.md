@@ -46,17 +46,17 @@ departmental operations.
 - Practiced various data analysis tools and techniques on ambiguous data, distilling data into actionable insights and delivering recommendations across diverse business groups.
 
 ## 🎓 Education
-### IIIT | BENGALURU
+### IIIT, BENGALURU
 ### PG DIPLOMA IN DATA SCIENCE
-**Specialized in Business Intelligence and Data Analytics**
+**Specialized In Business Intelligence And Data Analytics**
 - CGPA: 3.49/4.00
 
-### MUFFAKHAM JAH COLLEGE OF ENGG & TECH | HYDERABAD
-**Bachelor of Engineering in Electronics and Communication Engineering**
+### MUFFAKHAM JAH COLLEGE OF ENGG & TECH, HYDERABAD
+**B.E in Electronics And Communication Engineering**
 - Percentage: 65.50
   
-### Quli Qutub Shah Govt Polytechnic | HYDERABAD
-**Diploma in Electronics and Communication Engineering**
+### QULI QUTUB SHAH POLYTECHNIC, HYDERABAD
+**Diploma In Electronics And Communication Engineering**
 - Percentage: 73.9
 
 ## 📝 Projects
