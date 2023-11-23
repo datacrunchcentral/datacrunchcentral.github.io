@@ -14,6 +14,7 @@ header:
 My name is Mohammed Asif, a passionate individual with a drive to excel in the field of data analytics. I hold a **Postgraduate diploma in Business Intelligence and Data Analytics** from **IIIT Bengaluru**, a journey that has ignited my fascination with the world of data.
 
 In my professional journey, I've accumulated 2.7 years of valuable experience as a **Senior Associate** at Wipro India, specializing in fraud investigation. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.
+{: .text-justify}
 
 Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of expertise to the table. This role has not only honed my customer-centric skills but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
 
