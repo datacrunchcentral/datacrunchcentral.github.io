@@ -4,7 +4,7 @@ title: "Learn Microsoft Excel"
 categories:
   - posts
 tags:
-  - ms Office
+  - ms office
   - excel
   - functions
 toc: true
