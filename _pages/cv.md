@@ -57,10 +57,12 @@ departmental operations.
   
 ### Quli Qutub Shah Govt Polytechnic | HYDERABAD
 **Diploma in Electronics and Communication Engineering**
-Percentage: 73.9
+- Percentage: 73.9
 
-## 📝 Projects and Articles
-I frequently publish articles to discuss recent research in DA and open-source projects. Please visit my [blog](https://datacrunchcentral.github.io/posts/) and [portfolio](https://datacrunchcentral.github.io/portfolio/) for more details.
+## 📝 Projects
+- IMDB Movie Assignment
+- INDIA's GDP ANALYSIS 
+- BANK DEFAULTERS
 
 ## 🤖 Skills
 ### Hard Skills:
@@ -81,9 +83,6 @@ I frequently publish articles to discuss recent research in DA and open-source p
 -	Microsoft Office
 -	Tableau
 
+## Articles
+I frequently publish articles to discuss recent research in DA and open-source projects. Please visit my [blog](https://datacrunchcentral.github.io/posts/) and [portfolio](https://datacrunchcentral.github.io/portfolio/) for more details.
 
-- **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
-- **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
-- **Others:**
-
-- ![Uploading image.png…]()
