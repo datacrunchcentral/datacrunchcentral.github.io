@@ -30,8 +30,8 @@ Eager to grow, I am enthusiastic about applying my skills to extract meaningful 
 
 I love to read blogs, watch YouTube tutorials and listen to podcasts. I am learning so much from the data community, where knowledge is shared to challenge myself. In addition, I'm an researcher, I'm active on LinkedIn where I discuss and learn from others.
 
-## Hobbies
-### Photography
+### Hobbies
+
 I find joy and fulfillment in a diverse range of hobbies that keep my life vibrant and balanced.I thrive on challenges. Whether it's solving complex data puzzles or taking on new and demanding tasks, the thrill of overcoming obstacles fuels my passion for continuous growth.In the realm of creativity, I take pleasure in painting and decorating.Archery has captured my interest, providing a unique blend of focus, precision, and athleticism. Love to listen to Shayari and Qawwali in free time.
 
 
