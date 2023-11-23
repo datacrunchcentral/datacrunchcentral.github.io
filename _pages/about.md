@@ -11,17 +11,24 @@ header:
 {: .text-center}
 
 ## Career Objectives
-My name is Mohammed Asif. I am a Machine Learning Engineer with industry experiences in Deep Learning, NLP and Computer Vision. I am currently a **Computer Vision Intern** at **Etsy**, where I develop Deep Learning frameworks to improve personalization and image-based recommendations. Besides that, I works as a part-time **Machine Learning Researcher** at **Skim AI Technologies**, where I apply latest research in Deep Learning NLP to make machines understand human languages better. Projects I worked on include Named Entity Recognition (NER), Document Classification, large-scale Sentiment Analysis and Summarization.
+My name is Mohammed Asif, a passionate individual with a drive to excel in the field of data analytics. I hold a **Postgraduate diploma in Business Intelligence and Data Analytics** from **IIIT Bengaluru**, a journey that has ignited my fascination with the world of data.
 
-I am pursuing a STEM master's degree at the **University of Rochester**, where I receive solid training in Statistics, Machine Learning and Programming. I am proficient in Python and R programming languages, data retrieval and processing with SQL, data visualization with Tableau, Matplotlib and Seaborn. I am interested in working with large datasets, including cleaning, connecting and mining data. I have completed Data Science projects and Kaggle competitions, where I built, tuned and ensembled machine learning models including Regresisons (Ridge, Lasso), Random Forest, SVM, XGBoost and LightGBM. I am very proficient at using PyTorch to build and deploy cutting-egde AI systems to solve NLP and CV problems. More details about these projects can be found below:
+In my professional journey, I've accumulated 2.7 years of valuable experience as a **Senior Associate** at Wipro India, specializing in fraud investigation. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.
+
+Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of expertise to the table. This role has not only honed my customer-centric skills but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.:
 
 [View My Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
 
-I love to read AI blogs, watch YouTube tutorials and listen to AI podcasts. I am learning so much from the AI community, where knowledge is shared to challenge the boundary of computer intelligence. In addition, as an NLP researcher, I frequently publish articles to discuss recent research papers in Deep Learning and open-source projects to apply state-of-the-art technologies in NLP such as BERT and ELECTRA.
+### Passion for Data
 
-[Read My Blog Posts](https://datacrunchcentral.github.io/posts/){: .btn .btn--info}
-{: .text-center}
+My interest lies in working with large datasets, where I've mastered the art of cleaning, connecting, and mining data for valuable insights. This passion extends to completed Data Science projects and active participation in Kaggle competitions, where I continuously refine my analytical skills.
+
+### Looking Ahead
+
+Eager to grow as a Data Analyst, I am enthusiastic about applying my skills to extract meaningful information from data and contribute to data-driven decision-making. I thrive in dynamic environments that allow me to leverage my analytical prowess and contribute to innovative solutions.
+
+I love to read blogs, watch YouTube tutorials and listen to podcasts. I am learning so much from the data community, where knowledge is shared to challenge myself. In addition, I'm an researcher, I'm active on LinkedIn where I discuss and learn from others.
 
 ## Hobbies
 ### Photography
