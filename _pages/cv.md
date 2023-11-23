@@ -5,9 +5,8 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://chriskhanhtran.github.io/files/20200812-resume.pdf){: .btn .btn--info}
+[Download Resume](https://datacrunchcentral.github.io/files/resume.pdf){: .btn .btn--info}
 
-*Updated: 08/12/2020*
 
 ## 📧 Contact
 - Email: [asifmd8309@gmail.com]()
@@ -62,7 +61,7 @@ departmental operations.
 ## 📝 Projects
 - IMDB Movie Assignment
 - INDIA's GDP ANALYSIS 
-- BANK DEFAULTERS
+- BANK DEFAULTERS(Case Study)
 
 ## 🤖 Skills
 ### Hard Skills
