@@ -13,7 +13,7 @@ toc_icon: "bookmark"
 - LinkedIn: [linkedin.com/in/mohdasif81/](https://www.linkedin.com/in/mohdasif81/)
 
 ## 💼 Experience
-### Amazon Development Pvt Ltd.
+### Amazon Development India Pvt Ltd.
 ***CS Specialist***
 
 *April 2019 - Present, Hyderabad, India*
