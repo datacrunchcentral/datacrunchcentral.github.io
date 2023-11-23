@@ -15,7 +15,7 @@ My name is Mohammed Asif, a passionate individual with a drive to excel in the f
 
 In my professional journey, I've accumulated 2.7 years of valuable experience as a **Senior Associate** at Wipro India, specializing in fraud investigation. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.
 
-Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of expertise to the table. This role has not only honed my customer-centric skills but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.:
+Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of expertise to the table. This role has not only honed my customer-centric skills but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
 
 [View My Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info}
 {: .text-center}
@@ -42,6 +42,7 @@ I find joy and fulfillment in a diverse range of hobbies that keep my life vibra
 
 ### Distance Racing
 I started running distance in 2016. Since then I have completed several challenges made among friends. Running pushes me to the limits of my physiscal and mental strengths and beyond.
+{: .text-justify}
 
 <img src="https://datacrunchcentral.github.io/assets/images/lbm-2015.jpg" width="400">{: .align-center}
 *My first half-marathon race, Hanoi 2016*
