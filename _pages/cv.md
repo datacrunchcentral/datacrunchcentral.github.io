@@ -64,14 +64,23 @@ I frequently publish articles to discuss recent research in DA and open-source p
 
 ## 🤖 Skills
 ### Hard Skills:
-•	Data Warehousing
-•	Machine Learning
-•	Survey Data Collection
-•	Data Modeling
-•	Data Mining
-•	Data Analysis
-•	SQL Server     
+-	Data Warehousing
+-	Machine Learning
+-	Survey Data Collection
+-	Data Modeling
+-	Data Mining
+-	Data Analysis
+-	SQL Server     
 - Reporting Services
+
+### TOOLS AND SOFTWARE:
+-	Python
+-	Power BI
+-	SQL Programming
+-	Advance Excel
+-	Microsoft Office
+-	Tableau
+
 
 - **Programming:** Python (NumPy, Pandas, Scikit-learn, PyTorch, TensorFlow), Big Data (Spark, Hive), R, SQL, Cypher, MATLAB
 - **NLP:** Named Entity Recognition, Sentiment Analysis, Machine Translation, Summarization
