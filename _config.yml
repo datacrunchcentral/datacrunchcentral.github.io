@@ -109,13 +109,13 @@ analytics:
 author:
   name             : "Mohammed Asif"
   avatar           : "/assets/images/profile-photo.png"
-  bio              : "<i>An Achiever,<br>a Data Enthusiast.</i>"
+  bio              : "<i>An Achiever,<br>a Data Enthusiast, a Learner</i>"
   location         :
   email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:tranduckhanh96@gmail.com
+      url: mailto:asifmd8309@gmail.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datacrunchcentral"
