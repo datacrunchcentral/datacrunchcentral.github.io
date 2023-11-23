@@ -65,7 +65,7 @@ departmental operations.
 - BANK DEFAULTERS
 
 ## 🤖 Skills
-### Hard Skills:
+### Hard Skills
 -	Data Warehousing
 -	Machine Learning
 -	Survey Data Collection
@@ -75,7 +75,7 @@ departmental operations.
 -	SQL Server     
 - Reporting Services
 
-### TOOLS AND SOFTWARE:
+### TOOLS AND SOFTWARE
 -	Python
 -	Power BI
 -	SQL Programming
