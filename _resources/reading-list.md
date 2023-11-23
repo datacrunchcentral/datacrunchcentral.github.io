@@ -10,7 +10,6 @@ header:
 ---
 My reading list of research, articles, books and authors in Data Analytics, Machine Learning,etc
 
-# 1. Research 
 ### 1.1. Dataset
 - ⏳ [Kaggle](https://www.kaggle.com)
 - ⏳ [HackerRank](https://www.hackerrank.com)
