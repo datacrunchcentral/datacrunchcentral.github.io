@@ -8,12 +8,12 @@
 @import "minimal-mistakes"; // main partials
 
 // Custom styles
-a {
+#main-content a {
   color: #000; // Set your desired link color
   text-decoration: none; // Optional: Remove underline from links
   transition: color 0.3s; // Optional: Add a smooth transition effect
 }
 
-a:hover {
+#main-content a:hover {
   color: #333; // Set your desired link color on hover
 }
