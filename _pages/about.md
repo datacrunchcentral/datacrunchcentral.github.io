@@ -41,8 +41,8 @@ I find joy and fulfillment in a diverse range of hobbies that keep my life vibra
 {: .text-justify}
 
 
-<img src="https://datacrunchcentral.github.io/assets/images/milkyway-1280x856.jpg" width="580">{: .align-center}
-*The Milky Way and fireflies, taken by me at Catskills Mountains, NY*
+<img src="https://datacrunchcentral.github.io/assets/images/sql_select.png">{: .align-center}
+*Your choices determine the path of your life*
 {: .small}
 {: .text-center}
 
@@ -51,6 +51,6 @@ I started running distance in 2016. Since then I have completed several challeng
 {: .text-justify}
 
 <img src="https://datacrunchcentral.github.io/assets/images/lbm-2015.jpg" width="400">{: .align-center}
-*My first half-marathon race, Hanoi 2016*
+*Dreams that are not pursued remain mere illusions*
 {: .small}
 {: .text-center}
