@@ -41,7 +41,7 @@ I find joy and fulfillment in a diverse range of hobbies that keep my life vibra
 {: .text-justify}
 
 
-<img src="https://datacrunchcentral.github.io/assets/images/sql_select.png">{: .align-center}
+<img src="https://datacrunchcentral.github.io/assets/images/select_sql.png">{: .align-center}
 *Your choices determine the path of your life*
 {: .small}
 {: .text-center}
