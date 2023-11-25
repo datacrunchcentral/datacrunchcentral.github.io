@@ -218,9 +218,12 @@ body {
 }
 
 .page__hero-image {
-  width: 100%;
-  height: 380px;
-  -ms-interpolation-mode: bicubic;
+   max-height: 390px; /* Set the maximum height for your header image */
+    width: 100%;
+    height: auto;
+    -ms-interpolation-mode: bicubic;
+    -webkit-transition: all 0.2s ease-in-out;
+    transition: all 0.2s ease-in-out;
 }
 
 .page__hero-caption {
