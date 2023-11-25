@@ -17,3 +17,12 @@
 #main-content a:hover {
   color: #333; // Set your desired link color on hover
 }
+
+// Custom styles for header image container
+.header {
+  img {
+    height: 390px; // Set the desired height for your header image
+    width: 100%; // Ensure the image takes up the full width of its container
+    object-fit: cover; // Maintain aspect ratio and cover the entire container
+  }
+}
