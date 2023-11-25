@@ -2,8 +2,12 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/downloadd.gif
+  image: /assets/images/tech-giff-image.gif
 ---
+
+{: .header}
+![Alt Text](/assets/images/tech-giff-image.gif)
+
 
 <img src="https://datacrunchcentral.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
 
