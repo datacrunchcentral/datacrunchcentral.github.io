@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/giff gif cc.gif
+  image: /assets/images/Giff C.gif
   
 ---
 
