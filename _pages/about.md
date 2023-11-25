@@ -2,11 +2,11 @@
 title: "About"
 permalink: /about/
 header:
-  image: /assets/images/tech-giff-image.gif
+  image: https://github.com/datacrunchcentral/datacrunchcentral.github.io/blob/main/assets/images/download.gif
   height: 390
 ---
 
-<img src="https://datacrunchcentral.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
+![Alt Text](https://github.com/datacrunchcentral/datacrunchcentral.github.io/blob/main/assets/images/download.gif){: .align-center}
 
 [Resume](https://datacrunchcentral.github.io/cv/){: .btn .btn--info} [Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/mohdasif81/){: .btn .btn--info}
 {: .text-center}
