@@ -5,10 +5,6 @@ header:
   image: /assets/images/tech-giff-image.gif
 ---
 
-{: .header}
-![Alt Text](/assets/images/tech-giff-image.gif)
-
-
 <img src="https://datacrunchcentral.github.io/assets/images/about-me-600x600.png" width="250">{: .align-center}
 
 [Resume](https://datacrunchcentral.github.io/cv/){: .btn .btn--info} [Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info} [LinkedIn](https://www.linkedin.com/in/mohdasif81/){: .btn .btn--info}
