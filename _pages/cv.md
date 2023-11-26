@@ -5,7 +5,7 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: "bookmark"
 ---
-[Download Resume](https://datacrunchcentral.github.io/files/resume.pdf){: .btn .btn--info}
+[Download Resume](https://datacrunchcentral.github.io/files/Resume.pdf){: .btn .btn--info}
 
 
 ## 📧 Contact
