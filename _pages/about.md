@@ -13,10 +13,7 @@ header:
 ## Career Objectives
 My name is Mohammed Asif, a passionate individual with a drive to excel in the field of data analytics. I hold a **Postgraduate diploma in Business Intelligence and Data Analytics** from **IIIT Bengaluru**, a journey that has ignited my fascination with the world of data.
 
-In my professional journey, I've accumulated 2.7 years of valuable experience as a **Senior Associate** at Wipro India, specializing in fraud investigation. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.
-{: .text-justify}
-
-Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of expertise to the table. This role has not only honed my customer-centric skills but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
+In my professional journey, I've accumulated 4.5 years of valuable experience working across diverse processes and domains, specializing in fraud investigation, compliance auditing at **Amazon**. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.This has not only honed my Customer-centric, Analytical skills, Critical thinking, ability to make decisions in pressure but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
 {: .text-justify}
 
 [View My Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info}
@@ -24,7 +21,7 @@ Currently, I am a dedicated CS Specialist at Amazon India, bringing 4.7 years of
 
 ### Passion for Data
 
-My interest lies in working with large datasets, where I've mastered the art of cleaning, connecting, and mining data for valuable insights. This passion extends to completed Data Science projects and active participation in Kaggle competitions, where I continuously refine my analytical skills.
+My interest lies in working with large datasets, where I've mastered the art of cleaning, connecting, and mining data for valuable insights. This passion extends to completed Data Science projects and active participation in **Kaggle**, **HackerRank**, **Leetcode** competitions, where I continuously refine my analytical skills.
 {: .text-justify}
 
 ### Looking Ahead
