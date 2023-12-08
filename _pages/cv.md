@@ -69,6 +69,10 @@ departmental operations.
 **Diploma In Electronics And Communication Engineering**
 - Percentage: 73.9
 
+### X CLASS, HYDERABAD
+- Percentage: 79.00
+  
+
 ## 📝 PROJECTS
 - IMDB Movie Assignment
 - INDIA's GDP ANALYSIS 
