@@ -16,7 +16,6 @@ toc_icon: "bookmark"
 ### Amazon Development India Pvt Ltd.
 
 ***CS SPECIALIST***
-
 *Sep 2021 - Present, Hyderabad, India*
 
 - Managed large datasets with 20K observations using regular expressions and selecting key variables to build models for statistical logic.
@@ -28,16 +27,14 @@ toc_icon: "bookmark"
 departmental operations.
 - Recommended upgrades that improved platform architecture in response to internal audits concerning system performance; boosted recovery time after outages by 80%.
 
-***SECURITY BAR ASSOCIATE***
-
-*Dec 2020 – Sep 2021*
+***SECURITY BAR RAISE (SBR) ASSOCIATE***
+*Dec 2019 – Sep 2021*
 
 - Performed auditing of contacts and escalation for any complience from the agent's end and reported to manager in MS Excel reports.
 - Played pivotal role in ensuring adherence to regulatory standards and internal policies, conducting thorough examinations to identify and mitigate risks within the organization.
 - Responsibilities involve meticulously reviewing contacts, documentation,emails, chats, phone records, operational processes, and company practices to verify compliance with industry regulations with a keen eye for detail, strong analytical skills, and the ability to provide recommendations for improving internal controls and maintaining ethical business practices.
 
-***Registry Associate***
-
+***REGISTRY ASSOCIATE***
 *April 2019 – Dec 2019*
 
 - The Registry Associate is integral to our operations, overseeing various aspects such as fraud prevention for better customer service experience, ensuring transparent delivery processes, and meticulous tracking of logistics.
