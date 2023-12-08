@@ -14,24 +14,32 @@ toc_icon: "bookmark"
 
 ## 💼 Experience
 ### Amazon Development India Pvt Ltd.
-***CS Specialist***
 
-*April 2019 - Present, Hyderabad, India*
+***CS SPECIALIST***
+*Sep 2021 - Present, Hyderabad, India*
 
 - Managed large datasets with 20K observations using regular expressions and selecting key variables to build models for statistical logic.
 - Created explanatory models of use cases for presentation to operation manager.
 - Performed data cleaning necessary for predictive models by assessing information from 1200+ customers and sellers.
 - Collaborated with 30+ data analysts and project managers on several concurrent projects in Q1 2021.
-
-### Wipro technologies.
-***Senior Associate***
-
-*May 2016 – November 2018, Hyderabad, India*
-
-- Provided technical support for new software systems by creating database structures and tables.
+- Provided support for software systems by creating database structures/tables.
 - Created dashboards using Excel and Tableau to display the areas of interest within
 departmental operations.
 - Recommended upgrades that improved platform architecture in response to internal audits concerning system performance; boosted recovery time after outages by 80%.
+
+***SECURITY BAR ASSOCIATE***
+*Dec 2020 – Sep 2021*
+
+- Performed auditing of contacts and escalation for any complience from the agent's end and reported to manager in MS Excel reports.
+- Played pivotal role in ensuring adherence to regulatory standards and internal policies, conducting thorough examinations to identify and mitigate risks within the organization.
+- Responsibilities involve meticulously reviewing contacts, documentation,emails, chats, phone records, operational processes, and company practices to verify compliance with industry regulations with a keen eye for detail, strong analytical skills, and the ability to provide recommendations for improving internal controls and maintaining ethical business practices.
+
+***Registry Associate***
+*April 2019 – Dec 2019*
+
+- The Registry Associate is integral to our operations, overseeing various aspects such as fraud prevention for better customer service experience, ensuring transparent delivery processes, and meticulous tracking of logistics.
+- Performed measures to detect and prevent fraudulent activities in credit cards, unknown charges, guaranteeing a secure and trustworthy environment.
+- Contributed to maintaining a transparent and efficient delivery system, ensuring that logistics are tracked seamlessly throughout the entire process between the customer and the sellers for growth of business.
 
 ### Responsibilities.
 
