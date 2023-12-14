@@ -39,19 +39,11 @@ departmental operations.
 
 ***SECURITY BAR RAISE (SBR) ASSOCIATE***
 
-*Dec 2019 – Mar 2021*
+*April 2019 – Mar 2021*
 
 - Performed auditing of contacts and escalation for any complience from the agent's end and reported to manager in MS Excel reports.
 - Played pivotal role in ensuring adherence to regulatory standards and internal policies, conducting thorough examinations to identify and mitigate risks within the organization.
 - Responsibilities involve meticulously reviewing contacts, documentation,emails, chats, phone records, operational processes, and company practices to verify compliance with industry regulations with a keen eye for detail, strong analytical skills, and the ability to provide recommendations for improving internal controls and maintaining ethical business practices.
-
-***REGISTRY ASSOCIATE***
-
-*April 2019 – Dec 2019*
-
-- The Registry Associate is integral to our operations, overseeing various aspects such as fraud prevention for better customer service experience, ensuring transparent delivery processes, and meticulous tracking of logistics.
-- Performed measures to detect and prevent fraudulent activities in credit cards, unknown charges, guaranteeing a secure and trustworthy environment.
-- Contributed to maintaining a transparent and efficient delivery system, ensuring that logistics are tracked seamlessly throughout the entire process between the customer and the sellers for growth of business.
 
 ### WIPRO TECHNOLOGIES
 
@@ -96,7 +88,7 @@ departmental operations.
 - Percentage: 79.00
   
 ### INTERNSHIP
-### MeriSKILL ### Successfully completed 45 days internship in data analysing by utilysing tools like SQL, Excel,Python, Tableau.
+### MeriSKILL * Successfully completed 45 days internship in data analysing by utilysing tools like SQL, Excel,Python, Tableau.*
 - Looking for new opportunities to learn new things.
   
 ## 📝 PROJECTS
