@@ -56,8 +56,8 @@ departmental operations.
 ### WIPRO TECHNOLOGIES
 
 ***SENIOR ASSOCIATE (RISK ANALYST)***
-### CLIENT: GOOGLE
-### PLATFORM: GOOGLE CLOUD SERVICES
+#### CLIENT: GOOGLE
+#### PLATFORM: GOOGLE CLOUD SERVICES
 
 *May 2016 – Nov 2018*
 
@@ -96,8 +96,7 @@ departmental operations.
 - Percentage: 79.00
   
 ### INTERNSHIP
-- MeriSKILL
-  Successfully completed 45 days internship in data analysing by utilysing tools like SQL, Excel,Python, Tableau.
+### MeriSKILL ### Successfully completed 45 days internship in data analysing by utilysing tools like SQL, Excel,Python, Tableau.
 - Looking for new opportunities to learn new things.
   
 ## 📝 PROJECTS
