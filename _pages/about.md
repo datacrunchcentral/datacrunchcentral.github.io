@@ -13,7 +13,7 @@ header:
 ## Career Objectives
 My name is Mohammed Asif, a passionate individual with a drive to excel in the field of data analytics. I hold a **Postgraduate Diploma In Business Intelligence And Data Analytics** from **IIIT BANGLORE**, a journey that has ignited my fascination with the world of data.
 
-In my professional journey, I've accumulated 4.5 years of valuable experience working across diverse processes and domains, specializing in fraud investigation, compliance auditing at **Amazon**. My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.This has not only honed my Customer-centric, Analytical skills, Critical thinking, ability to make decisions in pressure but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
+In my professional journey, I've accumulated 4.5 years of valuable experience working across diverse processes and domains, specializing in fraud investigation, compliance auditing at **Amazon** as CS Specialist and 2.5 years of Senior Associate (Risk Analyst) experience at Wipro (client Google for Google Cloud services). My role involved diving deep into the intricacies of data to uncover patterns and anomalies, contributing to the security of online platforms.This has not only honed my Customer-centric, Analytical skills, Critical thinking, ability to make decisions in pressure but has also provided real-time exposure to SQL, Excel, and data visualization using tools like Tableau.
 {: .text-justify}
 
 [View My Portfolio](https://datacrunchcentral.github.io/portfolio/){: .btn .btn--info}
